@@ -8,3 +8,5 @@ this line add from the test branch
 =======
 this line add from the test branch
 >>>>>>> TestBranch
+
+Added a new line to README after merging
